@@ -38,7 +38,7 @@ JWT_SECRET=<your_jwt_secret>
 
 ```
 
-POST /api/auth/register
+POST /auth/register
 
 ```
 
@@ -55,7 +55,7 @@ Request body:
 ### Login
 
 ```
-POST /api/auth/login
+POST /auth/login
 ```
 
 Request body:
