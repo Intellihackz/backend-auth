@@ -26,6 +26,7 @@ This is a simple Node.js backend application for user authentication (registrati
 
 MONGODB_URI=<your_mongodb_uri>
 JWT_SECRET=<your_jwt_secret>
+PORT =<port> (optional)
 
 ```
 
