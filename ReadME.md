@@ -29,7 +29,7 @@ JWT_SECRET=<your_jwt_secret>
 
 ```
 
-5. Run the application using `node index.js` or `npm start`.
+5. Run the application using `node index.js` or `npm run server`.
 6. Your Node.js authentication backend should now be running and ready to accept requests.
 
 ## API Endpoints
